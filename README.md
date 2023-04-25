@@ -1,1 +1,2 @@
 # TrueQuestionForCoding
+记录在实习和秋招过程中遇到的笔试真题。
